@@ -19,8 +19,8 @@ credits: true
 - Items consist of metadata to ensure findability
 - Our collection showcases various digital formats
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+The template repository features objects from the University of Pretoria
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+
 
 
